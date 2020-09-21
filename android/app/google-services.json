@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643225541319",
+    "firebase_url": "https://ekmtek-16c6a.firebaseio.com",
+    "project_id": "ekmtek-16c6a",
+    "storage_bucket": "ekmtek-16c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643225541319:android:21fd56bebc4f3c21143ce2",
+        "android_client_info": {
+          "package_name": "br.com.ekmtek.siges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643225541319-enp17ucaeegf8aojdjbmo9fng6jdisc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ekmtek.siges",
+            "certificate_hash": "2903ed799f4af5c9ef177a0a12612f63801f575b"
+          }
+        },
+        {
+          "client_id": "643225541319-mfo4jfbj1sidhg8mltrplcjb68hm04s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFHAmzkVirZgRGld6kgL6-BKhhYyzIMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643225541319-mfo4jfbj1sidhg8mltrplcjb68hm04s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
